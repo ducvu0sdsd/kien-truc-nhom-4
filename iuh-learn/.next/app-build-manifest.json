@@ -1,0 +1,75 @@
+{
+  "pages": {
+    "/(admin)/quan-ly-mon-hoc/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(admin)/quan-ly-mon-hoc/page.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/(admin)/quan-ly-hoc-phan/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(admin)/quan-ly-hoc-phan/page.js"
+    ],
+    "/(admin)/quan-ly-sinh-vien/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(admin)/quan-ly-sinh-vien/page.js"
+    ],
+    "/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/page.js"
+    ],
+    "/(admin)/quan-ly-khoa/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(admin)/quan-ly-khoa/page.js"
+    ],
+    "/(admin)/quan-ly-chuyen-nganh/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(admin)/quan-ly-chuyen-nganh/page.js"
+    ],
+    "/(admin)/quan-ly-he-dao-tao/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(admin)/quan-ly-he-dao-tao/page.js"
+    ],
+    "/(admin)/quan-ly-phong/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(admin)/quan-ly-phong/page.js"
+    ],
+    "/(admin)/quan-ly-lop/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(admin)/quan-ly-lop/page.js"
+    ],
+    "/(admin)/quan-ly-giao-vien/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(admin)/quan-ly-giao-vien/page.js"
+    ],
+    "/(admin)/quan-ly-hoc-ky/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(admin)/quan-ly-hoc-ky/page.js"
+    ],
+    "/(student)/thong-tin-chung/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(student)/thong-tin-chung/page.js"
+    ],
+    "/(student)/dang-ky-hoc-phan/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(student)/dang-ky-hoc-phan/page.js"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "/(admin)/quan-ly-hoc-ky/page": "app/(admin)/quan-ly-hoc-ky/page.js",
+  "/(admin)/quan-ly-hoc-phan/page": "app/(admin)/quan-ly-hoc-phan/page.js",
+  "/page": "app/page.js",
+  "/(admin)/quan-ly-sinh-vien/page": "app/(admin)/quan-ly-sinh-vien/page.js",
+  "/(student)/thong-tin-chung/page": "app/(student)/thong-tin-chung/page.js",
+  "/(student)/dang-ky-hoc-phan/page": "app/(student)/dang-ky-hoc-phan/page.js"
+}
